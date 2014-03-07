@@ -1,12 +1,12 @@
 # Project Title
-Insert the name of your project
+Boidy
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Kirill Chuvakov, PoloKirch
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Our project is an interactive art installation/game, in which two players control two man-shaped boid (bird-shaped object) flocks with Kinect or a similar device. The gameplay is fighting-alike. The players, with gestures, send groups of boids to each other, and when such group collides with the enemy flock, it dislodges some boids from it. The player who, after some time, has more boids in their flock wins.
+The key feature of the project is the ability to involve bystanders in the game. Anyone can participate with their phones: tapping in the corners of the phone screen creates additional boids to strengthen a flying group of boids, making this group more effective at dislodging enemy boids.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
@@ -26,8 +26,11 @@ function test() {
 [Example Link](http://www.google.com "Example Link")
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+![Example Image](project_images/boidy_two_flocks.jpg?raw=true "Two flocks")
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+A screenshot from an unnecessarily long video showing two flocks of boids (they are both player-controlled).
+The link on the screen was working at the moment of the presentation.
+
+http://www.youtube.com/watch?v=iXY8DjjToSM
+Early presentation: one flock controller, two "attackers" sending boid groups, no players with phones.
