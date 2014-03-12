@@ -3,6 +3,7 @@ Boidy
 
 ## Authors
 - Kirill Chuvakov, PoloKirch
+- Dmitry Shevtsov, DmitryShevtsov
 
 ## Description
 Our project is an interactive art installation/game, in which two players control two man-shaped boid (bird-like object) flocks with Kinect or a similar device. The gameplay is fighting-alike. The players, with gestures, send groups of boids to each other, and when such group collides with the enemy flock, it dislodges some boids from it. The player who, after some time, has more boids in their flock wins.
